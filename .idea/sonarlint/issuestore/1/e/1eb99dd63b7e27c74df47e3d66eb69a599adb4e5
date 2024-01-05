@@ -1,0 +1,20 @@
+
+J
+java:S1604B"(Make this anonymous inner class a lambda(µÏÍìúÿÿÿÿ8²œ¤Ë1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó‚Ò8³œ¤Ë1
+_
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8Üœ¤Ë1
+_
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8Üœ¤Ë1
+_
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8Üœ¤Ë1
+_
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8Üœ¤Ë1
+t
+java:S3305""RInject this field value directly into "filterChain", the only method that uses it.(ŞŸŸıüÿÿÿÿ8Şœ¤Ë1
+‚
+java:S3305$"`Inject this field value directly into "ldapAuthenticationManager", the only method that uses it.(ª÷»‚ûÿÿÿÿ8Şœ¤Ë1
+S
+java:S1611+"1Remove the parentheses around the "web" parameter(úšşúÿÿÿÿ8áœ¤Ë1
+n
+java:S16121"LReplace this lambda with method reference 'AbstractHttpConfigurer::disable'.(å‚¢ªıÿÿÿÿ8äœ¤Ë1

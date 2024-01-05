@@ -1,0 +1,26 @@
+
+~
+java:S26294"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ñòÓÔùÿÿÿÿ8Åş§ÇÍ1
+~
+java:S26295"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(É˜¦úÿÿÿÿ8Åş§ÇÍ1
+Y
+java:S26298"7Use the built-in formatting to construct this argument.(î…¤êüÿÿÿÿ8Åş§ÇÍ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ßñ+8¬ÖîâÈ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Óş§ÇÍ1
+_
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8Óş§ÇÍ1
+c
+java:S34574"AFormat specifiers should be used instead of string concatenation.(ñòÓÔùÿÿÿÿ8Ûş§ÇÍ1
+c
+java:S34575"AFormat specifiers should be used instead of string concatenation.(É˜¦úÿÿÿÿ8Ûş§ÇÍ1
+t
+java:S62047"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(åôôÅûÿÿÿÿ8Üş§ÇÍ1
+c
+java:S34578"AFormat specifiers should be used instead of string concatenation.(î…¤êüÿÿÿÿ8Üş§ÇÍ1
+N
+java:S1128"1Remove this unused import 'io.jsonwebtoken.Jwts'.(íğœ±8İş§ÇÍ1
+j
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8İş§ÇÍ1
+;
+java:S1128"Remove this duplicated import.(–ÿÚŞ8İş§ÇÍ1

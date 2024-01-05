@@ -1,0 +1,32 @@
+
+|
+java:S11928"_Use already-defined constant 'OBJECTCLASSFORUSERINETORG' instead of duplicating its value here.(ıÁøì8È«Ø£Ë1
+w
+java:S11928"ZUse already-defined constant 'OBJECTCLASSFORUSEROP' instead of duplicating its value here.(ıÁøì8È«Ø£Ë1
+{
+java:S11928"^Use already-defined constant 'OBJECTCLASSFORUSERPERSON' instead of duplicating its value here.(ıÁøì8È«Ø£Ë1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó‚Ò8É«Ø£Ë1
+:
+java:S23868"Make this member "protected".(ıÁøì8Ë«Ø£Ë1
+g
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(ş±”Çûÿÿÿÿ8Ï«Ø£Ë1
+g
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(óßŞøÿÿÿÿ8Ï«Ø£Ë1
+g
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(Ä¨ú½ûÿÿÿÿ8Ï«Ø£Ë1
+b
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(ŒĞø8Ï«Ø£Ë1
+b
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(³Œ¬ü8Ï«Ø£Ë1
+g
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(™«¹øÿÿÿÿ8Ï«Ø£Ë1
+b
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(Ì¨•«8Ï«Ø£Ë1
+g
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(–õäÂüÿÿÿÿ8Ï«Ø£Ë1
+b
+java:S11244"EReorder the modifiers to comply with the Java Language Specification.(éœœƒ8Ğ«Ø£Ë1
+b
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(Ù–ûÕ8Ğ«Ø£Ë1
+b
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(ÓüÈ8Ğ«Ø£Ë1

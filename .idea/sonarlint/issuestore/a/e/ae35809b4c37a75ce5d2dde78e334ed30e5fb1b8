@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó‚Ò
+T
+java:S1854"9Remove this useless assignment to local variable "email".(Ş¯Ü’ıÿÿÿÿ
+E
+java:S1481"*Remove this unused "email" local variable.(Ş¯Ü’ıÿÿÿÿ
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ŠÜ¹ùÿÿÿÿ8»€¨ÇÍ1
