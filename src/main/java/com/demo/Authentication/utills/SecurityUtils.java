@@ -10,7 +10,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class SecurityUtils {
     private static final Logger LOG = LoggerFactory.getLogger(SecurityUtils.class);
-    private static String key = "3DLakeRawcubesUS"; // 128 bit key
+    private static String key = "ABC"; // 128 bit key
     private static String initVector = "1857195720572157"; // 16 bytes IV
 
     public static String aesEncrypt(String password) throws Exception {
